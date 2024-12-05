@@ -1,0 +1,15 @@
+Requests per IP address:
+IP Address,Request Count
+192.168.1.1,7
+203.0.113.5,8
+10.0.0.2,6
+198.51.100.23,8
+192.168.1.100,5
+
+Most Accessed Endpoint:
+Endpoint,Access Count
+/login,13
+
+Suspicious Activity Detected:
+IP Address,Failed Login Attempts
+N/A,N/A
