@@ -24,7 +24,7 @@ The script processes standard server log files that typically include the follow
 
 ### Sample Log Entry:
 
-    192.168.1.1 - - [03/Dec/2024:10:12:34 +0000] "GET /home HTTP/1.1" 200 512
+`192.168.1.1 - - [03/Dec/2024:10:12:34 +0000] "GET /home HTTP/1.1" 200 512`
 
 ## Practical Implementation
 
@@ -57,11 +57,11 @@ The script includes the following steps:
 
 1. **Requests per IP Address:**
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/646f7652-8139-4539-9b60-ed62bc7f1e74" alt="URL based web phishing model" width = 750 /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/85c248e8-5916-4c27-936a-10101d4875d4" alt="URL based web phishing model" width = 750 /> </p>
 
 2. **Most Accessed Endpoints:**
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/abe61832-1c4d-40f3-abb2-7365033141b9" alt="URL based web phishing model" width = 750 /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/2f478f86-4add-49a6-83e9-9f7ff29681e8" alt="URL based web phishing model" width = 750 /> </p>
 
 ## Getting Started
 
